@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hadir</h1>
 <h3 align="center">A passionate Game Developer from Tunisia</h3>
 
-- 🔭 I’m currently working on **K.O**
+- 🔭 I’m currently working on **VR GAME**
 
 - 👨‍💻 All of my projects are available at [https://jennyhadir.github.io/](https://jennyhadir.github.io/)
 
