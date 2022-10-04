@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **hadirjenni@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1VKwKJ8uVYH24aLcl1WUQvlognWNYMbht/view?usp=sharing](https://drive.google.com/file/d/1VKwKJ8uVYH24aLcl1WUQvlognWNYMbht/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/14NNzMEKhnEwFY2lCH-1BB2knQjZfnNmg/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
